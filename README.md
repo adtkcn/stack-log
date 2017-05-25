@@ -1,5 +1,5 @@
 # stack-log
-可以打印栈信息的日志函数,移动**混合开发**必备!!!
+可以打印栈信息的日志函数,移动**混合开发**必备!!!,原作者不是我，稍加改动
 
 ## 简介
 
@@ -12,17 +12,12 @@
 ## 安装
 
 ### nodejs 环境
-
-```
-npm i stack-log --save
-```
-
+...
 ### 浏览器环境
 
 下载 **lib/stack-log.js** 到本地,然后:
-
 ```
-<script type="text/javascript" src="path/to/stack-log.js"></script>
+<script type="text/javascript" src="/stack-log.js"></script>
 ```
 
 ## 使用示例
